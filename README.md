@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Tata~
 
-##### Welcome to my world !
+<img align="right" src="images/girl.gif" width="300" height="290" style="margin-top:40px"/>**Welcome to my world !**
 
 - 🔭 I’m currently an undergraduate student in **CCNU**
 - 🌱 I’m currently learning Operating System~

@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, my name is Tata~
 
-<!--
-**fograinwater/fograinwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Welcome to my world !
 
-Here are some ideas to get you started:
+- 🔭 I’m currently an undergraduate student in **CCNU**
+- 🌱 I’m currently learning Operating System~
+- 👯 I’m looking to collaborate on AI
+- 💬 Ask me about Java & Android & HarmonyOS……
+- 📫 How to reach me: 
+  - email: ttt18598552579@163.com
+  - qq: 3528090018
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: music & soap opera
+- :boy: My qute boyfriend: [姜砸](https://github.com/Nick-JY)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

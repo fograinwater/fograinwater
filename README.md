@@ -11,5 +11,4 @@
   - qq: 3528090018
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: music & soap opera
-- :boy: My qute boyfriend: [姜砸](https://github.com/Nick-JY)
 
